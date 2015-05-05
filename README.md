@@ -3,7 +3,7 @@ General development-specifc information about  INFX 598 E/F, Practicum to Build 
 
 ## Item Mirror Angular Tutorial
 
-If you want to get the sampe application up and running on your machine, take a look at the [forked repository available](https://github.com/UW-itemMirror-apps/item-mirror-angular-demo) for it.
+If you want to get the sampe application up and running on your machine, take a look at the [forked repository available](https://github.com/UW-itemMirror-apps/item-mirror-angular-demo) for it. For a more detailed look into how the application works and how to recreate it, take a look at the tutorial for the [original repository](https://github.com/KeepingFoundThingsFound/item-mirror-angular-demo).
 
 The README gives some very helpful information on setting up your machine and getting everything running. If you can run that sample application, you're ready to start extending it and utilizing itemMirror.
 
